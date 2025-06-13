@@ -1,5 +1,7 @@
 # 🧠 Meu Vim Config — .vimrc personalizado
 
+![ScreenShot](imgs/01.png)
+
 Este é o meu setup pessoal de configuração do Vim, voltado para produtividade, completamento inteligente, navegação de arquivos e aparência elegante com o tema Dracula. A configuração é feita com o gerenciador de plugins vim-plug.
 
 ## 📦 Plugins Utilizados
@@ -54,4 +56,6 @@ Se quiser desfazer a nova configuração e voltar para sua anterior:
     :PlugInstall
 
 (Opcional) Para usar o YouCompleteMe, siga as instruções de [instalação do YCM.](https://github.com/ycm-core/YouCompleteMe#installation)
+
+### [Fonte para criar o vimrc](https://terminalroot.com.br/2021/04/como-configurar-seu-vim-para-c-cpp.html)
 
